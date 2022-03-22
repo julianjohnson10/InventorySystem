@@ -5,15 +5,15 @@ WGU C482 - Software I - Inventory System using JavaFX
 
 A.  Create a JavaFX application with a graphical user interface (GUI) based on the attached “Software 1 GUI Mock-Up.” You may use JavaFX with or without FXML to create your GUI, or you may use Scene Builder to create your FXML file; use of Swing is not permitted. The user interface (UI) should closely match the organization of the GUI layout and contain all UI components (buttons, text fields, etc.) in each of the following GUI mock-up forms:
 
-1.  Main form
+  1. Main form
 
-2.  Add Part form
+  2. Add Part form
 
-3.  Modify Part form
+  3. Modify Part form
 
-4.  Add Product form
+  4. Add Product form
 
-5.  Modify Product form
+  5. Modify Product form
 
 Note: You may use one FXML file for forms with an identical UI component structure. You may also use a single window that can be switched to a different menu, or a new window can be launched for each form. As of JDK 11, JavaFX is no longer included in the JDK API but is available as an SDK or module.
 
