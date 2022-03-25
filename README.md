@@ -3,6 +3,9 @@ WGU C482 - Software I - Inventory System using JavaFX
 
 Author: Julian Johnson
 
+# UML:
+![alt text](https://github.com/julianjohnson10/InventorySystem/blob/main/UML%20Diagram.png)
+
 # Requirements:
 
 ## User Interface
